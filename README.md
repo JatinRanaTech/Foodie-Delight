@@ -3,7 +3,6 @@ Food Ordering Website
 A simple and responsive food ordering website built using HTML, CSS, and JavaScript. Users can browse food items, add them to the cart, adjust quantities, and view the total order with a clean and minimal UI.
 
 🚀 Live Demo
-
 https://foodie-delight-zeta.vercel.app/
 
 ✨ Features
